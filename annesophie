@@ -48,7 +48,8 @@ Nouvelles manières de visualiser une image
 - **Titre du projet :**   
 - **Description du projet (environ 150 mots) :** 
 Un projet en rapport avec le mouvement en temps réel. J'ai toujours voulu mêler ma passion pour la danse à ma pratique en art numérique. 
-J'aimerais donc créer une performance qui utiliserait des données en temps réel soit en poussant le spectateur à bouger soit en préparant une performance dansée personelle. 
+J'aimerais donc créer une performance qui utiliserait des données en temps réel soit en poussant le spectateur à bouger et initier le mouvement. 
+Je pense utilisé processing 
 
 ### Thématiques de Recherche
 
@@ -61,7 +62,7 @@ Pour moi, la machine et l'humain fonctionne en binome et c'est ce point que je v
 ## Outils et Techniques
 
 - **Outils que vous comptez utiliser (logiciels, langages de programmation, etc.) :**
-Processing ? VVVV ?
+Processing ? VVVV ? Touch designer ? 
 
 - **Techniques spécifiques que vous souhaitez maîtriser ou expérimenter :** 
 Le tracking, l'utilisation de données en temps réel pour créer un projet interactif. 
@@ -71,12 +72,11 @@ Le tracking, l'utilisation de données en temps réel pour créer un projet inte
 - **Argumentaire expliquant la pertinence de votre projet (environ 150 mots) :**  
  Dans ce projet, j'aimerais travailler sur la relation entre l'humain et la machine ou du moins le mouvement humain et donc plus organique et le mouvement mécanique. 
 Je pense que les deux fontionne constamment en binome. 
-références : 
-- Hakanai
+
 
 
 - **Références artistiques qui inspirent votre travail (livres, artistes, œuvres, etc.) :** 
-
+Hakanai 
 
 
 
@@ -117,8 +117,12 @@ Des ressources communes seront alimentées par tous. Chaque étudiant devra cont
 
 //Avez-vous des questions ou des préoccupations à propos du cours ou de vos projets ? : 
 
-
+J'ai des inquiétudes via-àvis de tous le travail demandé. Il m'est de plus en plus compliqué de m'organiser pour boucler et surtout avancer comme je le souhaite sur mes projets 
+Je pense qu'il y a peu être un peu trop de choses à faire. 
 
 
 
 # Journal de bord
+29.10.24
+Premier cours, j'ai quelques idées qui portent sur le mouvement et l'interactivité. J'aimerais un projet dans lequel le spectateur peut jouer entre corps réel 
+et corps numérique. 
