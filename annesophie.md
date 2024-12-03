@@ -164,5 +164,8 @@ AIDE :
 Valérie :Elle m'a donné du code pour du glitch d'images sur processing 
 Je lui ai également donné une référence : Domestic Data Streamers. 
 
+03/12/24
+
+Jolaine et Bastien m'ont aidé avec mon Java. On a essayé de comprendre les boucles while et for, les variables et on a testé un script P5js. 
 
 
