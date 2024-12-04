@@ -110,7 +110,7 @@ Proposition d'idées et aide à la recherche documentaire. Si besoin et si j'ai 
 Des ressources communes seront alimentées par tous. Chaque étudiant devra contribuer et enrichir cet ensemble de ressources.
 
 ### **PRÉSENTATION DE 20 MINUTES SUR UN SUJET ARTISTIQUE/DESIGN (RECHERCHE THÉORIQUE)**
-
+Présentation du studio Domestic Data streamers le 26
 
 
 ## Planification
@@ -159,6 +159,7 @@ J'ai commencé à faire des essaies sur processing et pour l'instant, j'arrive s
 
 Mardi 26 novembre : 
 Je vais faire me présenattion sur les Domestic Data streamers. 
+Aujourd'hui, j'ai pu mettre au clair mes idées et j'ai testé plusieurs programmes progcessing de modification de l'image par le mouvement. 
 
 AIDE : 
 Valérie :Elle m'a donné du code pour du glitch d'images sur processing 
