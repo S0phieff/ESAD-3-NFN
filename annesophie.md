@@ -129,8 +129,6 @@ Présentation du studio Domestic Data streamers le 26
 //Avez-vous des questions ou des préoccupations à propos du cours ou de vos projets ? : 
 
 J'ai des inquiétudes via-àvis de tous le travail demandé. Il m'est de plus en plus compliqué de m'organiser pour boucler et surtout avancer comme je le souhaite sur mes projets 
-Je pense qu'il y a peu être un peu trop de choses à faire. 
-
 
 
 # Journal de bord
@@ -168,5 +166,28 @@ Je lui ai également donné une référence : Domestic Data Streamers.
 03/12/24
 
 Jolaine et Bastien m'ont aidé avec mon Java. On a essayé de comprendre les boucles while et for, les variables et on a testé un script P5js. 
+J'ai beaucoup regardé des notions de codes et appris à propos du Java Script. 
+
+10/12/24
+
+Aujourd'hui j'avance sur le tracking et le dessin sur P5. Je comprends un peu mieux mon code et ça c'est cool. 
+L'objectif pour la fin de cette journée c'est de pouvoir tester une mise en espace de mon travail. 
+Ce matin, j'ai pu travailler un peu avec Emilie sur mon projet afin de trouver comment prolonger la ligne sur mon projet de manière à ce qu'on ait un dessin à la fin. Elle a réussi à trouver un programme sympa qui permet de dessiner et de changer de couleur. 
+
+J'ai donc réalisé différents code sur P5 : 
+
+1- Le point suit les mouvements de l'index 
+<iframe src="https://editor.p5js.org/S0_phie/full/xFsSmvG2o"></iframe>
+
+2- Le point suit les mouvements de l'index tout en laissant une trainée transparente sans pour autant marqué l'ecran 
+<iframe src="https://editor.p5js.org/S0_phie/full/3GxMSV0lv"></iframe>
+
+3- Dessin avec les 5 doigts sans vidéo en temps réel 
+<iframe src="https://editor.p5js.org/S0_phie/full/hA9i2i0ec"></iframe>
+
+4- 5 points suivent les doigts avec une vidéo en temps réel 
+<iframe src="https://editor.p5js.org/S0_phie/full/pKli02Mej"></iframe>
+
+img = src (""
 
 
