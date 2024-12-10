@@ -191,9 +191,12 @@ J'ai donc réalisé différents code sur P5 :
 5- Image flou et dégradé de couleurs 
 <iframe src="https://editor.p5js.org/S0_phie/sketches/e5t3K7ZOQ"></iframe>
 
-![blury 1 ]("[https://github.com/S0phieff/ESAD-3-NFN/issues/1#issue-2730253391](https://github.com/user-attachments/assets/747d50f8-d7fe-4d2d-810c-0e2e83564966)")
-![blury 2 ]("https://github.com/user-attachments/assets/7ce8bbd9-cab5-4bf3-9887-dd1299915e22")
-![blury 3 ]("https://github.com/user-attachments/assets/ea1b81c0-cad5-4e35-b0d6-09205d367db3")
+![blury 1 ]("![image](https://github.com/user-attachments/assets/4232e096-709d-49eb-8d8c-f985a46e2502)
+")
+![blury 2 ]("![image](https://github.com/user-attachments/assets/2901aa25-57f7-4295-99a2-3d0b658d3efa)
+")
+![blury 3 ]("![image](https://github.com/user-attachments/assets/b6797180-9ba4-49b8-a36f-a4c75d148cb4)
+")
 
 
 
