@@ -190,6 +190,11 @@ J'ai donc réalisé différents code sur P5 :
 
 5- Image flou et dégradé de couleurs 
 <iframe src="https://editor.p5js.org/S0_phie/sketches/e5t3K7ZOQ"></iframe>
-![alt tag](https://private-user-images.githubusercontent.com/159007109/394310225-747d50f8-d7fe-4d2d-810c-0e2e83564966.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzM4NDA2NTAsIm5iZiI6MTczMzg0MDM1MCwicGF0aCI6Ii8xNTkwMDcxMDkvMzk0MzEwMjI1LTc0N2Q1MGY4LWQ3ZmUtNGQyZC04MTBjLTBlMmU4MzU2NDk2Ni5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMjEwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTIxMFQxNDE5MTBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lMmRhZjk2MTNmMzg4NjM3YzQ5MDUzZGZhNTU2NWM3NmVmODRkM2MwNzk3MWI3MDdmMzBmZTRmOGU5ZGE5Y2M1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.pMBl6nbx7Bvf-P2GV4LrWB3ff9wEDDSxCk8AUmdxyU4)
+
+![blury 1 ]("[https://github.com/S0phieff/ESAD-3-NFN/issues/1#issue-2730253391](https://github.com/user-attachments/assets/747d50f8-d7fe-4d2d-810c-0e2e83564966)")
+![blury 2 ]("https://github.com/user-attachments/assets/7ce8bbd9-cab5-4bf3-9887-dd1299915e22")
+![blury 3 ]("https://github.com/user-attachments/assets/ea1b81c0-cad5-4e35-b0d6-09205d367db3")
+
+
 
 
