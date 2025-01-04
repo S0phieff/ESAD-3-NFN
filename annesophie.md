@@ -156,12 +156,12 @@ Il me manque des croquis et des précisions à faire pour mon projet.
 J'ai commencé à faire des essaies sur processing et pour l'instant, j'arrive seulement à faire fonctionner la caméra correctement même si elle est inversée. 
 
 Mardi 26 novembre : 
-Je vais faire me présenattion sur les Domestic Data streamers. 
+Je vais faire me présentation sur les Domestic Data streamers. 
 Aujourd'hui, j'ai pu mettre au clair mes idées et j'ai testé plusieurs programmes progcessing de modification de l'image par le mouvement. 
 
 AIDE : 
 Valérie :Elle m'a donné du code pour du glitch d'images sur processing 
-Je lui ai également donné une référence : Domestic Data Streamers. 
+Je lui ai donné une référence grâce à ma présentation : Domestic Data Streamers. 
 
 03/12/24
 
@@ -170,7 +170,7 @@ J'ai beaucoup regardé des notions de codes et appris à propos du Java Script.
 
 10/12/24
 
-Aujourd'hui j'avance sur le tracking et le dessin sur P5. Je comprends un peu mieux mon code et ça c'est cool. 
+Aujourd'hui j'avance sur le tracking et le dessin sur P5.js. Je comprends un peu mieux mon code et ça c'est cool. 
 L'objectif pour la fin de cette journée c'est de pouvoir tester une mise en espace de mon travail. 
 Ce matin, j'ai pu travailler un peu avec Emilie sur mon projet afin de trouver comment prolonger la ligne sur mon projet de manière à ce qu'on ait un dessin à la fin. Elle a réussi à trouver un programme sympa qui permet de dessiner et de changer de couleur. 
 
@@ -189,7 +189,6 @@ J'ai donc réalisé différents code sur P5 :
 <iframe src ="https://editor.p5js.org/S0_phie/full/pKli02Mej"></iframe>
 
 5- Image flou et dégradé de couleurs 
-<iframe src="https://editor.p5js.org/S0_phie/sketches/e5t3K7ZOQ"></iframe>
 
 ![blury 1 ]("![image](https://github.com/user-attachments/assets/4232e096-709d-49eb-8d8c-f985a46e2502)
 ")
@@ -197,6 +196,14 @@ J'ai donc réalisé différents code sur P5 :
 ")
 ![blury 3 ]("![image](https://github.com/user-attachments/assets/b6797180-9ba4-49b8-a36f-a4c75d148cb4)
 ")
+
+
+02/01/25
+J'ai améliorer mon code et j'ai enfin un résultat qui me convient.  Il reste seulement à trouver un moyen de faire une capture d'ecran du résultat final avec un geste de main. J'ai testé plusieurs choses mais rien n'a focntionné donc il faut appuyer sur la barre espace pour l'instant.
+J'ai également commencé à travailler sur un autre projet en lien avec le sujet de recherche d'Emilie. J'ai utilisé touchdesigner pour produire un visuel réactif au son. 
+
+03/01/2025
+J'ai continué le projet réactif au son et il fonctionnne plutôt bien. Voilà quelques images. 
 
 
 
