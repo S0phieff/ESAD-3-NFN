@@ -110,7 +110,7 @@ Proposition d'idées et aide à la recherche documentaire. Si besoin et si j'ai 
 Des ressources communes seront alimentées par tous. Chaque étudiant devra contribuer et enrichir cet ensemble de ressources.
 
 ### **PRÉSENTATION DE 20 MINUTES SUR UN SUJET ARTISTIQUE/DESIGN (RECHERCHE THÉORIQUE)**
-Présentation du studio Domestic Data streamers le 26
+Présentation du studio Domestic Data streamers le 26 novembre 2024. 
 
 
 ## Planification
@@ -118,40 +118,44 @@ Présentation du studio Domestic Data streamers le 26
 ### Planning de Travail
 
 - Établissez un planning des étapes clés pour votre projet :
-  - **Étape 1 :** Date et description   
-  - **Étape 2 :** Date et description   
-  - **Étape 3 :** Date et description 
 
+Lundi 06 janvier 2025 : 
+- mise en espace du projet
+- capture vidéo du programme
+- 
 
 
 ## Commentaires et Questions
 
 //Avez-vous des questions ou des préoccupations à propos du cours ou de vos projets ? : 
 
-J'ai des inquiétudes via-àvis de tous le travail demandé. Il m'est de plus en plus compliqué de m'organiser pour boucler et surtout avancer comme je le souhaite sur mes projets 
+J'ai des inquiétudes via-àvis de tous le travail demandé. Il m'est de plus en plus compliqué de m'organiser pour boucler et surtout avancer comme je le souhaite sur mes projets. 
 
 
 # Journal de bord
 
 29 octobre 2024 : 
-Premier cours, j'ai quelques idées qui portent sur le mouvement et l'interactivité. J'aimerais un projet dans lequel le spectateur peut jouer entre corps réel 
-et corps numérique. J'ai quelques vagues références : 
+Premier cours, j'ai quelques idées qui portent sur le mouvement et l'interactivité. J'aimerais un projet dans lequel le spectateur peut jouer entre corps réel et corps numérique. 
+![image](https://github.com/user-attachments/assets/1c99afcb-5a30-4b4b-a065-a426d672d8f0)
+![image](https://github.com/user-attachments/assets/f9afebce-91c2-4539-8d05-4ed5403ea2f5)
 
-- Hakanai de Adrien M et Claire B : Performance dansée qui utilise le numérique et l'interactivité/ temps réel. 
+
+J'ai une réference : Hakanai de Adrien M et Claire B, Performance dansée qui utilise le numérique et l'interactivité/ temps réel. 
 
 Mardi 5 novembre : 
 Aujourd'hui je m'occupe d'approfondir mes recherches sur :
 1- Le projet danse/interaction
-  *références 
-  J'ai trouvé plusieurs références. 
-  *moyens techniques
-  *graphisme 
+  J'ai trouvé plusieurs références interessantes : 
+   Sand storm, Jerome DELAPIERRE 
+   Daniel Shiffman : Intoduction to computer vision 
 
-2- Projet de recherches 
+2- la question pour mon sujet de recherche 
 
 Mardi 12 novembre : 
 
 J'ai trouvé une belle référence pour mon projet : Jisoo YOO. 
+![image](https://github.com/user-attachments/assets/bf5c4aad-7a7e-47df-9caa-003ecb3c8995)
+
 Il me manque des croquis et des précisions à faire pour mon projet. 
 J'ai commencé à faire des essaies sur processing et pour l'instant, j'arrive seulement à faire fonctionner la caméra correctement même si elle est inversée. 
 
@@ -164,9 +168,12 @@ Valérie :Elle m'a donné du code pour du glitch d'images sur processing
 Je lui ai donné une référence grâce à ma présentation : Domestic Data Streamers. 
 
 03/12/24
+Aujourd'hui est une journée d'apprentissage et de compréhension Java script.
+Jolaine et Bastien m'ont aidé. On a essayé de comprendre les boucles while et for, les variables et on a testé un script P5js. 
+J'ai beaucoup regardé des notions de codes et appris à propos de ce langage.  
 
-Jolaine et Bastien m'ont aidé avec mon Java. On a essayé de comprendre les boucles while et for, les variables et on a testé un script P5js. 
-J'ai beaucoup regardé des notions de codes et appris à propos du Java Script. 
+![image](https://github.com/user-attachments/assets/69711c1a-9a96-4cec-ad0e-04496f1bc848)
+![image](https://github.com/user-attachments/assets/7339975f-734b-476d-a994-d00b9e9e171c)
 
 10/12/24
 
@@ -177,16 +184,14 @@ Ce matin, j'ai pu travailler un peu avec Emilie sur mon projet afin de trouver c
 J'ai donc réalisé différents code sur P5 : 
 
 1- Le point suit les mouvements de l'index 
-<iframe src="https://editor.p5js.org/S0_phie/full/xFsSmvG2o"></iframe>
 
 2- Le point suit les mouvements de l'index tout en laissant une trainée transparente sans pour autant marqué l'ecran 
-<iframe src="https://editor.p5js.org/S0_phie/full/3GxMSV0lv"></iframe>
 
 3- Dessin avec les 5 doigts sans vidéo en temps réel 
-<iframe src="https://editor.p5js.org/S0_phie/full/hA9i2i0ec"></iframe>
 
-4- 5 points suivent les doigts avec une vidéo en temps réel 
-<iframe src ="https://editor.p5js.org/S0_phie/full/pKli02Mej"></iframe>
+4- Cinq points suivent les doigts avec une vidéo en temps réel 
+![image](https://github.com/user-attachments/assets/00e23671-7767-4acf-9c4a-883cf2f4f410)
+![image](https://github.com/user-attachments/assets/d70fd288-96bb-4efb-845b-f2f52dfa6ffb)
 
 5- Image flou et dégradé de couleurs 
 
@@ -200,12 +205,25 @@ J'ai donc réalisé différents code sur P5 :
 
 02/01/25
 J'ai améliorer mon code et j'ai enfin un résultat qui me convient.  Il reste seulement à trouver un moyen de faire une capture d'ecran du résultat final avec un geste de main. J'ai testé plusieurs choses mais rien n'a focntionné donc il faut appuyer sur la barre espace pour l'instant.
+
+![image](https://github.com/user-attachments/assets/52c81939-bb79-48c7-a94a-9e2d272d25b6)
+![image](https://github.com/user-attachments/assets/6de38b36-199e-45b8-8e97-0d781a4aa4c0)
+![image](https://github.com/user-attachments/assets/bc30beb0-4087-4816-b9a4-768712823a23)
+
 J'ai également commencé à travailler sur un autre projet en lien avec le sujet de recherche d'Emilie. J'ai utilisé touchdesigner pour produire un visuel réactif au son. 
+
 
 03/01/2025
 J'ai continué le projet réactif au son et il fonctionnne plutôt bien. Voilà quelques images. 
 
-![Uploading screenshot (8).png…]()
+05/01/2025
+Je remplis et peaufine mon repo Gith avec des images et des videos. Je fais également mon programme pour les trois jours intensifs de la rentré. 
+Le but est maintenant de trouver une mise en espace de ce projet. Il faudrait également que je trouve un moyen de prendre des capture d'ecran sans avoir à appuyer sur la barre espace. C'est mon objectif pour la rentrée. 
+
+
+
+
+
 
 
 
