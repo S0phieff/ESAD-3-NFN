@@ -205,6 +205,8 @@ J'ai également commencé à travailler sur un autre projet en lien avec le suje
 03/01/2025
 J'ai continué le projet réactif au son et il fonctionnne plutôt bien. Voilà quelques images. 
 
+![Uploading screenshot (8).png…]()
+
 
 
 
