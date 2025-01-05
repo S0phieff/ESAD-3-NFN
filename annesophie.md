@@ -134,7 +134,7 @@ J'ai des inquiétudes via-àvis de tous le travail demandé. Il m'est de plus en
 
 # Journal de bord
 
-29 octobre 2024 : 
+<strong>29 octobre 2024 : </strong> <br>
 Premier cours, j'ai quelques idées qui portent sur le mouvement et l'interactivité. J'aimerais un projet dans lequel le spectateur peut jouer entre corps réel et corps numérique. 
 ![image](https://github.com/user-attachments/assets/1c99afcb-5a30-4b4b-a065-a426d672d8f0)
 ![image](https://github.com/user-attachments/assets/f9afebce-91c2-4539-8d05-4ed5403ea2f5)
@@ -142,7 +142,7 @@ Premier cours, j'ai quelques idées qui portent sur le mouvement et l'interactiv
 
 J'ai une réference : Hakanai de Adrien M et Claire B, Performance dansée qui utilise le numérique et l'interactivité/ temps réel. 
 
-Mardi 5 novembre : 
+<strong> Mardi 5 novembre : </strong> <br>
 Aujourd'hui je m'occupe d'approfondir mes recherches sur :
 1- Le projet danse/interaction
   J'ai trouvé plusieurs références interessantes : 
