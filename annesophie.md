@@ -185,6 +185,10 @@ J'ai donc réalisé différents code sur P5 :
 
 <strong>1- Le point suit les mouvements de l'index </strong>
 
+
+https://github.com/user-attachments/assets/1e9dc710-83fe-465a-ba53-5dfb775906a8
+
+
 <strong>2- Le point suit les mouvements de l'index tout en laissant une trainée transparente sans pour autant marqué l'ecran </strong>
 ![image](https://github.com/user-attachments/assets/b389a374-ca84-4dd9-9b27-a04f47211ad9)
 
