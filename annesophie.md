@@ -134,7 +134,7 @@ J'ai des inquiétudes via-àvis de tous le travail demandé. Il m'est de plus en
 
 # Journal de bord
 
-<strong>29 octobre 2024 : </strong> <br> <br>
+<strong>29 octobre 2024 : </strong> <br> 
 Premier cours, j'ai quelques idées qui portent sur le mouvement et l'interactivité. J'aimerais un projet dans lequel le spectateur peut jouer entre corps réel et corps numérique. 
 ![image](https://github.com/user-attachments/assets/1c99afcb-5a30-4b4b-a065-a426d672d8f0)
 ![image](https://github.com/user-attachments/assets/f9afebce-91c2-4539-8d05-4ed5403ea2f5)
@@ -142,7 +142,7 @@ Premier cours, j'ai quelques idées qui portent sur le mouvement et l'interactiv
 
 J'ai une réference : Hakanai de Adrien M et Claire B, Performance dansée qui utilise le numérique et l'interactivité/ temps réel. 
 
-<strong> Mardi 5 novembre : </strong> <br> <br>
+<strong> Mardi 5 novembre : </strong> <br> 
 Aujourd'hui je m'occupe d'approfondir mes recherches sur :
 1- Le projet danse/interaction
   J'ai trouvé plusieurs références interessantes : 
@@ -151,7 +151,7 @@ Aujourd'hui je m'occupe d'approfondir mes recherches sur :
 
 2- la question pour mon sujet de recherche 
 
-<strong>Mardi 12 novembre :</strong>  <br> <br>
+<strong>Mardi 12 novembre :</strong>  <br>
 
 J'ai trouvé une belle référence pour mon projet : Jisoo YOO. 
 ![image](https://github.com/user-attachments/assets/bf5c4aad-7a7e-47df-9caa-003ecb3c8995)
@@ -159,7 +159,7 @@ J'ai trouvé une belle référence pour mon projet : Jisoo YOO.
 Il me manque des croquis et des précisions à faire pour mon projet. 
 J'ai commencé à faire des essaies sur processing et pour l'instant, j'arrive seulement à faire fonctionner la caméra correctement même si elle est inversée. 
 
-<strong>Mardi 26 novembre : </strong> <br> <br>
+<strong>Mardi 26 novembre : </strong> <br> 
 Je vais faire me présentation sur les Domestic Data streamers. 
 Aujourd'hui, j'ai pu mettre au clair mes idées et j'ai testé plusieurs programmes progcessing de modification de l'image par le mouvement. 
 
@@ -175,8 +175,7 @@ J'ai beaucoup regardé des notions de codes et appris à propos de ce langage.
 ![image](https://github.com/user-attachments/assets/69711c1a-9a96-4cec-ad0e-04496f1bc848)
 ![image](https://github.com/user-attachments/assets/7339975f-734b-476d-a994-d00b9e9e171c)
 
-<strong>Mardi 10 décembre : </strong> <br> <br>
-
+<strong>Mardi 10 décembre : </strong> <br> 
 Aujourd'hui j'avance sur le tracking et le dessin sur P5.js. Je comprends un peu mieux mon code et ça c'est cool. 
 L'objectif pour la fin de cette journée c'est de pouvoir tester une mise en espace de mon travail. 
 Ce matin, j'ai pu travailler un peu avec Emilie sur mon projet afin de trouver comment prolonger la ligne sur mon projet de manière à ce qu'on ait un dessin à la fin. Elle a réussi à trouver un programme sympa qui permet de dessiner et de changer de couleur. 
@@ -190,9 +189,13 @@ https://github.com/user-attachments/assets/1e9dc710-83fe-465a-ba53-5dfb775906a8
 
 
 <strong>2- Le point suit les mouvements de l'index tout en laissant une trainée transparente sans pour autant marqué l'ecran </strong>
-![image](https://github.com/user-attachments/assets/b389a374-ca84-4dd9-9b27-a04f47211ad9)
+
+
+https://github.com/user-attachments/assets/d87c262d-d44c-44e6-8763-060038154b01
+
 
 <strong>3- Dessin avec les 5 doigts sans vidéo en temps réel </strong>
+
 
 <strong>4- Cinq points suivent les doigts avec une vidéo en temps réel </strong>
 ![image](https://github.com/user-attachments/assets/00e23671-7767-4acf-9c4a-883cf2f4f410)
@@ -208,7 +211,7 @@ https://github.com/user-attachments/assets/1e9dc710-83fe-465a-ba53-5dfb775906a8
 ")
 
 
-<strong>Mercredi 1 janvier : </strong> <br> <br>
+<strong>Mercredi 1 janvier : </strong> <br> 
 J'ai améliorer mon code et j'ai enfin un résultat qui me convient.  Il reste seulement à trouver un moyen de faire une capture d'ecran du résultat final avec un geste de main. J'ai testé plusieurs choses mais rien n'a focntionné donc il faut appuyer sur la barre espace pour l'instant.
 
 ![image](https://github.com/user-attachments/assets/52c81939-bb79-48c7-a94a-9e2d272d25b6)
@@ -219,7 +222,7 @@ J'ai également commencé à travailler sur un autre projet en lien avec le suje
 
 
 
-<strong>Vendredi 3 janvier :</strong> <br> <br>
+<strong>Vendredi 3 janvier :</strong> <br>
 J'ai continué le projet réactif au son et il fonctionnne plutôt bien. Voilà quelques images. 
 
 <strong> Dimanche 5 décembre : </strong>
