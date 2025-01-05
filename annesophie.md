@@ -12,7 +12,7 @@
 
 ### Présentation Personnelle
 
-//Décrivez en quelques phrases vos objectifs à cours terme et long terme si vou en avez : 
+//Décrivez en quelques phrases vos objectifs à cours terme et long terme si vou en avez : <br>
 Pour cette année : Apprendre et approfondir de nouvelles techniques numériques et sortir de ma zone de confort
 Cours terme : Faire un erasmus ou une alternance. Voir les pratiques artistiques en dehors du centre val de loire au minimum. 
 Long terme : Travailler dans le spectacle vivant ? ou à mon compte sur le très long terme. 
@@ -37,7 +37,7 @@ Long terme : Travailler dans le spectacle vivant ? ou à mon compte sur le très
 
 
 
-## Projet et Thématique de Recherche
+## Projet et Thématique de Recherche  <br>
 Image, son, visualisation, données, datamoshing
 Nouvelles manières de visualiser une image
 
@@ -54,7 +54,7 @@ Je pense utilisé processing
 ### Thématiques de Recherche
 
 - **Thématiques que vous souhaitez explorer :**  
-- **Pourquoi cette thématique vous intéresse-t-elle ? (environ 100 mots) :** 
+- **Pourquoi cette thématique vous intéresse-t-elle ? (environ 100 mots) : <br>**
 J'aime l'idée de mêler mouvement et numérique, le corps physique et le numérique et l'interaction qu'il peut y avoir entre les deux. 
 J'aimerais me renseigner un peu plus sur l'idée du cyborg de Donna HARAWAY.
 Pour moi, la machine et l'humain fonctionne en binome et c'est ce point que je veux démontrer dans ce projet. 
@@ -77,7 +77,7 @@ Je pense que les deux fontionne constamment en binome.
 
 
 
-- **Références artistiques qui inspirent votre travail (livres, artistes, œuvres, etc.) :** 
+- **Références artistiques qui inspirent votre travail (livres, artistes, œuvres, etc.) :**  <br>
 - Hakanai de Adrien M et Claire B
 - Daniel Shiffman : Intoduction to computer vision 
 - Jisoo YOO : Le plus ordinaire, le plus illusoire 
@@ -117,7 +117,7 @@ Présentation du studio Domestic Data streamers le 26 novembre 2024.
 
 ### Planning de Travail
 
-- Établissez un planning des étapes clés pour votre projet :
+- Établissez un planning des étapes clés pour votre projet : <br>
 
 Lundi 06 janvier 2025 : 
 - mise en espace du projet
@@ -134,7 +134,7 @@ J'ai des inquiétudes via-àvis de tous le travail demandé. Il m'est de plus en
 
 # Journal de bord
 
-<strong>29 octobre 2024 : </strong> <br>
+<strong>29 octobre 2024 : </strong> <br> <br>
 Premier cours, j'ai quelques idées qui portent sur le mouvement et l'interactivité. J'aimerais un projet dans lequel le spectateur peut jouer entre corps réel et corps numérique. 
 ![image](https://github.com/user-attachments/assets/1c99afcb-5a30-4b4b-a065-a426d672d8f0)
 ![image](https://github.com/user-attachments/assets/f9afebce-91c2-4539-8d05-4ed5403ea2f5)
@@ -142,7 +142,7 @@ Premier cours, j'ai quelques idées qui portent sur le mouvement et l'interactiv
 
 J'ai une réference : Hakanai de Adrien M et Claire B, Performance dansée qui utilise le numérique et l'interactivité/ temps réel. 
 
-<strong> Mardi 5 novembre : </strong> <br>
+<strong> Mardi 5 novembre : </strong> <br> <br>
 Aujourd'hui je m'occupe d'approfondir mes recherches sur :
 1- Le projet danse/interaction
   J'ai trouvé plusieurs références interessantes : 
@@ -151,7 +151,7 @@ Aujourd'hui je m'occupe d'approfondir mes recherches sur :
 
 2- la question pour mon sujet de recherche 
 
-Mardi 12 novembre : 
+<strong>Mardi 12 novembre :</strong>  <br> <br>
 
 J'ai trouvé une belle référence pour mon projet : Jisoo YOO. 
 ![image](https://github.com/user-attachments/assets/bf5c4aad-7a7e-47df-9caa-003ecb3c8995)
@@ -159,15 +159,15 @@ J'ai trouvé une belle référence pour mon projet : Jisoo YOO.
 Il me manque des croquis et des précisions à faire pour mon projet. 
 J'ai commencé à faire des essaies sur processing et pour l'instant, j'arrive seulement à faire fonctionner la caméra correctement même si elle est inversée. 
 
-Mardi 26 novembre : 
+<strong>Mardi 26 novembre : </strong> <br> <br>
 Je vais faire me présentation sur les Domestic Data streamers. 
 Aujourd'hui, j'ai pu mettre au clair mes idées et j'ai testé plusieurs programmes progcessing de modification de l'image par le mouvement. 
 
-AIDE : 
+<strong> AIDE : </strong>
 Valérie :Elle m'a donné du code pour du glitch d'images sur processing 
-Je lui ai donné une référence grâce à ma présentation : Domestic Data Streamers. 
+Je lui ai donné une référence grâce à ma présentation : Domestic Data Streamers. <br> <br>
 
-03/12/24
+<strong>Mardi 3 décembre : </strong> <br> <br>
 Aujourd'hui est une journée d'apprentissage et de compréhension Java script.
 Jolaine et Bastien m'ont aidé. On a essayé de comprendre les boucles while et for, les variables et on a testé un script P5js. 
 J'ai beaucoup regardé des notions de codes et appris à propos de ce langage.  
@@ -175,7 +175,7 @@ J'ai beaucoup regardé des notions de codes et appris à propos de ce langage.
 ![image](https://github.com/user-attachments/assets/69711c1a-9a96-4cec-ad0e-04496f1bc848)
 ![image](https://github.com/user-attachments/assets/7339975f-734b-476d-a994-d00b9e9e171c)
 
-10/12/24
+<strong>Mardi 10 décembre : </strong> <br> <br>
 
 Aujourd'hui j'avance sur le tracking et le dessin sur P5.js. Je comprends un peu mieux mon code et ça c'est cool. 
 L'objectif pour la fin de cette journée c'est de pouvoir tester une mise en espace de mon travail. 
@@ -183,17 +183,18 @@ Ce matin, j'ai pu travailler un peu avec Emilie sur mon projet afin de trouver c
 
 J'ai donc réalisé différents code sur P5 : 
 
-1- Le point suit les mouvements de l'index 
+<strong>1- Le point suit les mouvements de l'index </strong>
 
-2- Le point suit les mouvements de l'index tout en laissant une trainée transparente sans pour autant marqué l'ecran 
+<strong>2- Le point suit les mouvements de l'index tout en laissant une trainée transparente sans pour autant marqué l'ecran </strong>
+![image](https://github.com/user-attachments/assets/b389a374-ca84-4dd9-9b27-a04f47211ad9)
 
-3- Dessin avec les 5 doigts sans vidéo en temps réel 
+<strong>3- Dessin avec les 5 doigts sans vidéo en temps réel </strong>
 
-4- Cinq points suivent les doigts avec une vidéo en temps réel 
+<strong>4- Cinq points suivent les doigts avec une vidéo en temps réel </strong>
 ![image](https://github.com/user-attachments/assets/00e23671-7767-4acf-9c4a-883cf2f4f410)
 ![image](https://github.com/user-attachments/assets/d70fd288-96bb-4efb-845b-f2f52dfa6ffb)
 
-5- Image flou et dégradé de couleurs 
+<strong>5- Image flou et dégradé de couleurs </strong>
 
 ![blury 1 ]("![image](https://github.com/user-attachments/assets/4232e096-709d-49eb-8d8c-f985a46e2502)
 ")
@@ -203,7 +204,7 @@ J'ai donc réalisé différents code sur P5 :
 ")
 
 
-02/01/25
+<strong>Mercredi 1 janvier : </strong> <br> <br>
 J'ai améliorer mon code et j'ai enfin un résultat qui me convient.  Il reste seulement à trouver un moyen de faire une capture d'ecran du résultat final avec un geste de main. J'ai testé plusieurs choses mais rien n'a focntionné donc il faut appuyer sur la barre espace pour l'instant.
 
 ![image](https://github.com/user-attachments/assets/52c81939-bb79-48c7-a94a-9e2d272d25b6)
@@ -213,11 +214,12 @@ J'ai améliorer mon code et j'ai enfin un résultat qui me convient.  Il reste s
 J'ai également commencé à travailler sur un autre projet en lien avec le sujet de recherche d'Emilie. J'ai utilisé touchdesigner pour produire un visuel réactif au son. 
 
 
-03/01/2025
+
+<strong>Vendredi 3 janvier :</strong> <br> <br>
 J'ai continué le projet réactif au son et il fonctionnne plutôt bien. Voilà quelques images. 
 
-05/01/2025
-Je remplis et peaufine mon repo Gith avec des images et des videos. Je fais également mon programme pour les trois jours intensifs de la rentré. 
+<strong> Dimanche 5 décembre : </strong>
+Je remplis et peaufine mon repo Git avec des images et des videos. Je fais également mon programme pour les trois jours intensifs de la rentré. 
 Le but est maintenant de trouver une mise en espace de ce projet. Il faudrait également que je trouve un moyen de prendre des capture d'ecran sans avoir à appuyer sur la barre espace. C'est mon objectif pour la rentrée. 
 
 
