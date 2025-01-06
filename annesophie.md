@@ -120,8 +120,8 @@ Présentation du studio Domestic Data streamers le 26 novembre 2024.
 - Établissez un planning des étapes clés pour votre projet : <br>
 
 Lundi 06 janvier 2025 : 
-- mise en espace du projet
-- capture vidéo du programme
+- Mise en espace du projet
+- Esthétique
 - 
 
 ## Commentaires et Questions
@@ -226,8 +226,11 @@ Je remplis et peaufine mon repo Git avec des images et des videos. Je fais égal
 Le but est maintenant de trouver une mise en espace de ce projet. Il faudrait également que je trouve un moyen de prendre des capture d'ecran sans avoir à appuyer sur la barre espace. C'est mon objectif pour la rentrée. 
 
 
+Lundi 6 janvier : 
+Reflexion sur projet et installation 
+Idée Eda : prendre une tablette pour capter les mouvemements 
 
-
+OU caméra 360 et ouverture d'un autre projet sur PC. 
 
 
 
