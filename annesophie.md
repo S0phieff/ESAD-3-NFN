@@ -124,7 +124,6 @@ Lundi 06 janvier 2025 :
 - capture vidéo du programme
 - 
 
-
 ## Commentaires et Questions
 
 //Avez-vous des questions ou des préoccupations à propos du cours ou de vos projets ? : 
@@ -191,9 +190,6 @@ https://github.com/user-attachments/assets/1e9dc710-83fe-465a-ba53-5dfb775906a8
 <strong>2- Le point suit les mouvements de l'index tout en laissant une trainée transparente sans pour autant marqué l'ecran </strong>
 
 
-https://github.com/user-attachments/assets/d87c262d-d44c-44e6-8763-060038154b01
-
-
 <strong>3- Dessin avec les 5 doigts sans vidéo en temps réel </strong>
 
 
@@ -220,7 +216,7 @@ J'ai améliorer mon code et j'ai enfin un résultat qui me convient.  Il reste s
 
 J'ai également commencé à travailler sur un autre projet en lien avec le sujet de recherche d'Emilie. J'ai utilisé touchdesigner pour produire un visuel réactif au son. 
 
-
+https://drive.google.com/file/d/1I0e6AFiTiz9Q9GNLT1YhtaJqrohkbY3y/view?usp=sharing
 
 <strong>Vendredi 3 janvier :</strong> <br>
 J'ai continué le projet réactif au son et il fonctionnne plutôt bien. Voilà quelques images. 
