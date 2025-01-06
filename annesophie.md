@@ -221,16 +221,19 @@ https://drive.google.com/file/d/1I0e6AFiTiz9Q9GNLT1YhtaJqrohkbY3y/view?usp=shari
 <strong>Vendredi 3 janvier :</strong> <br>
 J'ai continué le projet réactif au son et il fonctionnne plutôt bien. Voilà quelques images. 
 
-<strong> Dimanche 5 décembre : </strong>
+<strong> Dimanche 5 décembre : </strong> <br>
 Je remplis et peaufine mon repo Git avec des images et des videos. Je fais également mon programme pour les trois jours intensifs de la rentré. 
 Le but est maintenant de trouver une mise en espace de ce projet. Il faudrait également que je trouve un moyen de prendre des capture d'ecran sans avoir à appuyer sur la barre espace. C'est mon objectif pour la rentrée. 
 
 
-Lundi 6 janvier : 
+<strong> Lundi 6 janvier : </strong> <br>
 Reflexion sur projet et installation 
-Idée Eda : prendre une tablette pour capter les mouvemements 
+Idée Eda et Bastien : prendre une tablette pour capter les mouvemements 
 
 OU caméra 360 et ouverture d'un autre projet sur PC. 
+
+Eda m'a donné une réference : Sougwen Chung 
+
 
 
 
