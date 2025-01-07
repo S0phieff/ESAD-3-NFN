@@ -227,12 +227,19 @@ Le but est maintenant de trouver une mise en espace de ce projet. Il faudrait é
 
 
 <strong> Lundi 6 janvier : </strong> <br>
-Reflexion sur projet et installation 
-Idée Eda et Bastien : prendre une tablette pour capter les mouvemements 
+Reflexion sur projet et installation et réflexion sur l'esthétique et le graphisme de mon projet. Il faudrait que j'arrive à trouver une unité ou un fil rouge dans l'ensemble de mes productions. 
+Grâce à la semi mise en espace que j'ai réalisé, j'ai pu constater quelques problèmes. 
 
-OU caméra 360 et ouverture d'un autre projet sur PC. 
+Dans l'après-midi, on a pris un temps avec Eda et Bastien pour se faire des minis présentations de nos projets et donner nos avis et nos conseils sur les projets de chacun. 
 
+Idée Eda et Bastien pour mon projet : prendre une tablette pour capter les mouvemements OU caméra 360 et ouverture d'un autre projet sur PC. 
 Eda m'a donné une réference : Sougwen Chung 
+
+<strong> Mardi 7 janvier : </strong> <br>
+
+Ce matin je me concentre sur l'evolution graphique de mon projet. 
+J'ai réalisé une vidéo qui montre les différents résultats obtenus. 
+
 
 
 
