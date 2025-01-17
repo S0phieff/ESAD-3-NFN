@@ -243,6 +243,7 @@ J'ai réalisé une vidéo qui montre les différents résultats obtenus.
 <strong> Mercredi 8 janvier : </strong> <br>
 J'ai réalisé une installation après avoir finalisé les derniers points techniques dans mon code. 
 Ci-dessous quelques visuels des images possibles avec mon installation : 
+https://github.com/S0phieff/ESAD-3-NFN/issues/1#issuecomment-2599377784
 
 
 
