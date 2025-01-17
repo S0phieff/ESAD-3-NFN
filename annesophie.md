@@ -240,6 +240,9 @@ Eda m'a donné une réference : Sougwen Chung
 Ce matin je me concentre sur l'evolution graphique de mon projet. 
 J'ai réalisé une vidéo qui montre les différents résultats obtenus. 
 
+<strong> Mercredi 8 janvier : </strong> <br>
+J'ai réalisé une installation après avoir finalisé les derniers points techniques dans mon code. 
+Ci-dessous quelques visuels des images possibles avec mon installation : 
 
 
 
